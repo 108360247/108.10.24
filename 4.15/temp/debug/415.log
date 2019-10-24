@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  415.c
+C:\108360247_王識傑_108.10.19\4.15\source\415.c(8,38): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\108360247_王識傑_108.10.19\4.15\source\415.c(12,46): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\108360247_王識傑_108.10.19\4.15\source\415.c(6,8): warning C4101: 'i': 未參考的區域變數
+  415.vcxproj -> C:\108360247_王識傑_108.10.19\4.15\415\415\..\..\temp\debug\415.exe

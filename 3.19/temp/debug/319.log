@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  319.c
+C:\108360247_王識傑_108.10.19\3.19\source\319.c(21,11): warning C4476: 'scanf_s' : 格式規範中有未知的類型欄位字元 '.'
+C:\108360247_王識傑_108.10.19\3.19\source\319.c(21,19): warning C4474: 'scanf_s': 傳遞給格式字串的引數太多
+C:\108360247_王識傑_108.10.19\3.19\source\319.c(21,19): message : 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+  319.vcxproj -> C:\108360247_王識傑_108.10.19\3.19\319\319\..\..\temp\debug\319.exe
